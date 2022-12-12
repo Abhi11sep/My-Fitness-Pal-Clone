@@ -4,7 +4,7 @@
 <h2 align="left">My Fitness Pal</h2>
 <h4>Tech-stacks : HTML | CSS  </h4>
   </br>
-<span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/my%20net%20diary.gif"/></span>
+
 <h4 align="right">&nbsp;This website is deployed on Netlify  &nbsp;<a href="https://isnt-abhi11sep-awesome.netlify.app/"/>Deployed Link</a></h4>
 
 <h4 align="right">&nbsp;Link of the project Repository &nbsp;<a href="https://github.com/Abhi11sep/envious-cactus-6437">GitHub Link</a></h4>
